@@ -1,0 +1,5 @@
+﻿  Desenho.cpp
+c:\users\wesley sangalli\documents\visual studio 2017\projects\projetocg-opengl\projetocg-opengl\desenho.cpp(8): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+c:\users\wesley sangalli\documents\visual studio 2017\projects\projetocg-opengl\projetocg-opengl\desenho.cpp(9): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+  ProjetoCG-OpenGL.vcxproj -> C:\Users\Wesley Sangalli\documents\visual studio 2017\Projects\ProjetoCG-OpenGL\Debug\ProjetoCG-OpenGL.exe
+  ProjetoCG-OpenGL.vcxproj -> C:\Users\Wesley Sangalli\documents\visual studio 2017\Projects\ProjetoCG-OpenGL\Debug\ProjetoCG-OpenGL.pdb (Partial PDB)
